@@ -1,16 +1,7 @@
 # chat_app
 
-Chat app can send and receiver only text message
+Chat app by firebase can send and receive text message, pictures, and videos, and you can see if the user is using the app right now or not.
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Chat](https://github.com/Mo-3bdeen/chat_app/assets/118087093/c9801ca8-6152-4222-9b80-1f85f2b3a14d)
